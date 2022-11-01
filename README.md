@@ -8,4 +8,4 @@ How big are the offered discounts as a percentage of the product prices.
 How seasonality and special dates (Christmas, Black Friday) affect sales.
 How could data collection be improved.
 
-we analysed the dataset with Python and presented our findings to their team.
+We analysed the dataset with Python and presented our findings to their team.
