@@ -9,3 +9,6 @@ How seasonality and special dates (Christmas, Black Friday) affect sales.
 How could data collection be improved.
 
 We analysed the dataset with Python and presented our findings to their team.
+
+Skills: Data cleaning and Quaöity, Data Visualization and Data Storytelling
+Tools: Python, Jupital Notebooks,  Pandas, Seaborn and Matplotlib
